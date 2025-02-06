@@ -44,9 +44,9 @@ streamlit run app_2.py
 Here is how the application looks when running with the example .txt:
 
 ### Before Analysis:
-![App Interface Pre-Analysis](screenshots/predicition_pre.png)
+![App Interface Pre-Analysis](screenshots/prediction_pre.png)
 
 ### After Analysis:
-![App Interface Post-Analysis](screenshots/predicition_post.png)
+![App Interface Post-Analysis](screenshots/prediction_post.png)
 
 
