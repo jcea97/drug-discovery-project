@@ -43,7 +43,10 @@ streamlit run app_2.py
 
 Here is how the application looks when running with the example .txt:
 
-![App Interface Pre-Analysis]("C:\Users\Jesús Cea García\Downloads\prediciton_pre.png")
-![App Interface Post-Analysis]("C:\Users\Jesús Cea García\Downloads\prediciton_post.png")
+### Before Analysis:
+![App Interface Pre-Analysis](screenshots/predicition_pre.png)
+
+### After Analysis:
+![App Interface Post-Analysis](screenshots/predicition_post.png)
 
 
